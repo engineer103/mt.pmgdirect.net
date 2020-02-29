@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # RubyGem 1.8.15. Bundler 1.0.21
 
 gem "rails", "2.3.14"
-gem 'rake', "0.9.2.2"
+gem 'rake', "12.3.3"
 gem 'rmagick'
 gem "carrierwave", "0.4.10"
 gem "chronic"
