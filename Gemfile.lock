@@ -127,7 +127,7 @@ GEM
     whenever (0.5.0)
       chronic (>= 0.2.3)
     will_paginate (2.3.15)
-    yajl-ruby (1.1.0)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
