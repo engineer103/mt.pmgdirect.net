@@ -27,7 +27,7 @@ gem 'resque-job-stats'
 gem 'resque-scheduler', '2.0.0'
 gem 'resque-retry'
 
-gem "httparty", "0.11.0"  # Last version which supports Ruby 1.8.6. Needed by Bugsnag
+gem "httparty", "0.21.0"  # Last version which supports Ruby 1.8.6. Needed by Bugsnag
 gem "bugsnag"
 
 group :development do
