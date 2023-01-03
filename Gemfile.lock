@@ -38,17 +38,18 @@ GEM
     geokit (1.8.2)
       multi_json (>= 1.3.2)
     highline (1.6.21)
-    httparty (0.11.0)
-      multi_json (~> 1.0)
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
     i18n (0.6.0)
     linecache (0.46)
       rbx-require-relative (> 0.0.4)
+    mini_mime (1.1.2)
     miniskirt (1.1.1)
       activesupport (>= 2.2)
     mover (0.3.6)
-    multi_json (1.3.4)
-    multi_xml (0.5.5)
+    multi_json (1.15.0)
+    multi_xml (0.6.0)
     mysql2 (0.2.18)
     net-scp (1.0.4)
       net-ssh (>= 1.99.1)
@@ -142,7 +143,7 @@ DEPENDENCIES
   faker
   fastercsv
   geokit
-  httparty (= 0.11.0)
+  httparty (= 0.21.0)
   miniskirt
   mysql2 (= 0.2.18)
   net-scp (~> 1.0.4)
